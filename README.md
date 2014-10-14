@@ -6,7 +6,6 @@
 - Implement proper delegates as like UIPageViewController
 - Create a PageControl that links with MNPageViewController to display page titles, As like Twitter App.
 
-## END TODO
 
 Simple scrolling page view container for UIViewControllers modelled after UIPageViewController. Checkout the example app in Example folder of this repo.
 
